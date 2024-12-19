@@ -1,0 +1,372 @@
+{
+  "header": {
+    "nav_1": "Accueil",
+    "nav_2": {
+      "def": "Qui sommes-nous?",
+      "dp_1": "Notre histoire",
+      "dp_des_1": "Découvrez plus a propos de nous, qui nous sommes.",
+      "dp_2": "Nos tarifs",
+      "dp_des_2": "Découvrez nos solutions tarifaires adaptés à vos besoins spécifiques."
+    },
+    "nav_3": "Contact",
+    "nav_4": "Nous rejoindre",
+    "nav_5": {
+      "text_2": "Choisissez une langue",
+      "text_3": "Francais",
+      "text_4": "English",
+      "text_5": "Appliquer",
+      "text_6": "Fermer"
+    },
+    "cookie": {
+      "text_1": "Ce site Web utilise des cookies. Voir notre",
+      "text_2": "politique de confidentialité",
+      "text_3": "pour en savoir plus.",
+      "bt_1": "Accepter les cookies",
+      "bt_2": "Refuser"
+    }
+  },
+  "footer": {
+    "nav_1": "Accueil",
+    "nav_2": "Qui sommes-nous ?",
+    "nav_3": "Contact",
+    "nav_4": "Nous rejoindre",
+    "nav_5": "Mentions Légales",
+    "nav_6": "Politique de Confidentialité"
+  },
+  "home": {
+    "hero1": {
+      "txt1": "Outsourcing Malagasy Compagny, Une Révolution dans l’Outsourcing",
+      "txt2": "Adoptez une approche innovante avec O.M.C. ! Nous remplaçons les modèles obsolètes de saisie en France par des solutions d’outsourcing modernes et efficaces, adaptées aux défis actuels du marché.",
+      "bt_1": "EN SAVOIR PLUS"
+    },
+    "hero2": {
+      "txt1": "Développez Votre Avantage Concurrentiel",
+      "txt2": "O.M.C est connecté à l'hexagone, l'île de la Réunion et à Mayotte.",
+      "txt3": " Utilisez l'outsourcing pour alléger votre structure de coût et vous focaliser sur le relationnel client.",
+      "bt_1": "CONTACTEZ NOUS"
+    },
+    "section1": {
+      "title": "Notre cabinet",
+      "des": "Outsourcing Malagasy Compagny (O.M.C) est une société malgache située au cœur d'Antananarivo, Madagascar. Spécialisée dans les solutions d’outsourcing pour les cabinets comptables, O.M.C offre des services de qualité, adaptés aux besoins de toutes les entreprises.",
+      "bt": "VOIR PLUS"
+    },
+    "section2": {
+      "title": "Nos Compétences",
+      "txt1": "Les collaborateurs de O.M.C sont formés à plusieurs systèmes comptables tels que QUADRATUS, MYUNISOFT, SAGE 100 comptabilité i7, SAGE COALA, SAGE COMPTA, ACD, PENNYLANE et IRIUM. Pour assurer un outsourcing efficace, il est recommandé de nommer un référent outsourcing au sein de votre cabinet. Ce référent formera nos collaborateurs à votre système et organisation, servant de liaison initiale.",
+      "txt2": "Le modèle optimal consiste à ce qu'un collaborateur de votre cabinet supervise trois collaborateurs malgaches."
+    },
+    "section3": {
+      "title": "Mise en place de l'Outsourcing",
+      "des": "Nos collaborateurs travaillent directement sur votre système, selon ces étapes :",
+      "blk": {
+        "t1": "Accès Sécurisé au Logiciel",
+        "d1": "Vous nous accordez des droits d'accès à votre logiciel comptable. Cela garantit une intégration fluide et sécurisée dans votre système.",
+        "t2": "Choix des dossiers à externaliser",
+        "d2": "Définissez les dossiers que vous souhaitez externaliser. Vous conservez le contrôle tout en délégant les tâches chronophages.",
+        "t3": "Conformité à vos standards ",
+        "d3": "Nos collaborateurs travaillent en temps réel sur votre logiciel. Vos opérations restent à jour et conformes à vos standards.",
+        "t4": "Suivi de Production en Temps Réel",
+        "d4": "Supervisez la production en temps réel. Vous gardez une vue d'ensemble et ajustez les processus si nécessaire."
+      }
+    },
+    "section4": {
+      "title": "Pourquoi choisir O.M.C ?",
+      "des": "Nous nous engageons à améliorer l’efficacité économique de votre cabinet grâce à des solutions adaptées et à des collaborateurs hautement qualifiés. Avec notre approche axée sur la réduction des coûts et l’optimisation des processus, vous constaterez une amélioration significative de votre rentabilité dès le premier mois de collaboration.",
+      "blk": {
+        "t1": "Expertise Professionnelle",
+        "d1": "Nos collaborateurs sont, au minimum, diplômés Bac + 4 et possèdent une expérience solide dans le domaine de la comptabilité. Ils sont formés pour s’adapter rapidement à vos systèmes et à vos besoins spécifiques.",
+        "t2": "Conformité et Sécurité",
+        "d2": "Nous assurons une totale conformité avec le RGPD, en garantissant le fait que vos données seront traitées avec le plus grand soin et respect des normes de sécurité.",
+        "t3": "Intégration Efficace",
+        "d3": "Grâce à une formation ciblée, nos équipes s’adaptent rapidement à vos processus, minimisant ainsi le temps nécessaire à une transition efficace. "
+      }
+    },
+    "section5": {
+      "title": "Nos Tarifs",
+      "des": "Découvrez nos solutions tarifaires compétitives, conçues pour offrir une expertise de qualité à des coûts optimisés, adaptés à vos besoins spécifiques.",
+      "blk1": {
+        "title": "Services proposés ",
+        "p1": "Facturation au dossier ",
+        "p2": "Un collaborateur à mi-temps",
+        "p3": "Un collaborateur à temps plein",
+        "p5": { "t": "Autre demande spécifique" }
+      },
+      "blk2": {
+        "title": "Payes",
+        "des": "Ce tarif dépend de l'ensemble des tâches liées à la création et à la gestion des bulletins de salaire, garantissant conformité et exactitude dans le traitement des rémunérations.",
+        "bt": "PLUS DE DETAILS"
+      }
+    },
+    "section6": {
+      "title": "Nous rejoindre",
+      "des": "Rejoignez O.M.C et faites partie d'une équipe dynamique qui redéfinit l'outsourcing.",
+      "bt": "REJOIGNER-NOUS"
+    },
+    "section7": {
+      "title": "Nous contacter",
+      "des": "Nous sommes à votre disposition pour répondre à toutes vos questions et vous fournir toute l’assistance dont vous pourriez avoir besoin. Que ce soit pour obtenir des informations supplémentaires sur nos services, discuter de vos besoins spécifiques ou tout simplement pour nous faire part de vos retours, n'hésitez pas à nous contacter. Notre équipe est là pour vous offrir un support rapide et efficace.",
+      "form": {
+        "tlt": "Formulaire de contact",
+        "des": "Contactez-nous dès maintenant!",
+        "name": "Nom*",
+        "email": "Adresse email*",
+        "sct": "Entreprise*",
+        "phone": "Telephone*",
+        "mess": "Message*",
+        "btn": "ENVOYER"
+      }
+    }
+  },
+  "join": {
+    "title": "Nous rejoindre",
+    "des": "Outsourcing Malagasy Compagny (O.M.C) est toujours à la recherche de talents dynamiques et passionnés pour rejoindre notre équipe. Si vous souhaitez évoluer dans un environnement stimulant où l'innovation et le professionnalisme sont valorisés, nous serions ravis d'en apprendre plus sur vous.",
+    "bt1": {
+      "title": "EN SAVOIR PLUS",
+      "tl": "Comment postuler ?",
+      "d1": "Pour soumettre votre candidature, veuillez nous envoyer votre CV et une lettre de motivation dans la page contact (option: Recrutement).",
+      "d2": "N'oubliez pas de préciser le poste auquel vous souhaitez postuler!",
+      "bt1": "OK, JE COMPRENDS",
+      "bt2": "FERMER"
+    },
+    "bt2": "COMMENCER"
+  },
+  "contact": {
+    "title1": "Nous contacter",
+    "form": {
+      "n": "Nom*",
+      "pn": "Prenom*",
+      "ml": "Adresse email*",
+      "sc": "Entreprise",
+      "ph": "Telephone*",
+      "op": "Veuillez choisir une option",
+      "op1": "Prise de contact",
+      "op2": "Demande de devis",
+      "op3": "Recrutement",
+      "ms": "Message*",
+      "of": "Detail de l'offre",
+      "tm": "J’accepte le traitement de mes données personnelles par O.M.C. uniquement dans le cadre de ma demande de contact.",
+      "cv": "Selectionner votre CV",
+      "lm": "Selectionner votre Lettre de motivation",
+      "bt": "ENVOYER"
+    },
+    "title2": {
+      "h2_1": "Notre emplacement",
+      "p": "Situé dans le quartier des affaires d'Antananarivo, notre bureau bénéficie d'une connexion internet de haute qualité, grâce à la fibre optique classée meilleure du continent africain. Nous sommes entourés des meilleurs hôtels et offrons des services répondant aux plus hauts standards européens.",
+      "h6_1": "Adresse",
+      "h6_2": "Téléphone",
+      "h6_3": "Directrice",
+      "h2_2": "Nos partenaires historiques en Zone Sud Française"
+    }
+  },
+  "price": {
+    "title": "Nos Tarifs et Prestations",
+    "des": "La législation malgache prévoit un temps de travail hebdomadaire de 42 heures par semaine et de 15 jours de congés par an. Votre plage de travail est ainsi allongée au samedi matin toute l’année ce qui est rarement le cas en Europe.",
+    "bc1": {
+      "p": "Les tâches les plus courantes",
+      "li1": "Saisie simple, saisie sur image, saisie sur reconnaissance semi automatisée pour une amélioration de la reconnaissance de caractère.",
+      "li2": "Rapprochement bancaire, utilisation et paramétrage de l’ETEBAC.",
+      "li3": "Lettrage et pré-lettrage des comptes.",
+      "li4": "Calcul des dotations aux amortissements.",
+      "li5": "Remontée à vos responsables dossiers des anomalies dans des notes écrites que vous pouvez transtmettre à vos clients."
+    },
+    "bc2": {
+      "p": "Le tarif est dégressif compte tenu du nombre de collaborateurs. Les tarifs sont en euros, le risque de change est ainsi écarté."
+    },
+    "opt": "Option",
+    "p": "Grâce à notre juriste, nous pouvons aussi gérer le juridique classique (préparation des AG, AGOA, AGE, création, dissolution, augmentation de capital...).",
+    "btn": "COMMENCER MAINTENANT"
+  },
+  "about": {
+    "title1": "Qui sommes-nous ?",
+    "des": "est le fruit de la collaboration entre un réseau d'experts-comptables possédant une double nationalité malgache et française. Notre structure accompagne des cabinets comptables de toutes tailles, situés aussi bien à Paris que dans les départements de La Réunion et de Mayotte. Nous nous spécialisons dans la fourniture de solutions d'outsourcing sur mesure, adaptées aux besoins spécifiques des cabinets comptables.",
+    "bc": {
+      "h1": "Vos difficultés de recrutement et d’organisation ?",
+      "h6_1": "Les Défis des Cabinets Comptables",
+      "p_1": "Les cabinets de chasseurs de têtes sont coûteux et offrent des résultats souvent imprévisibles. Vos salariés manquent de fidélité, et vous êtes constamment confronté à la gestion de plannings de production de plus en plus serrés (TVA, acomptes d’IS, etc.).",
+      "h6_2": "Les Limites des Solutions Logiciels",
+      "p_2": "Les éditeurs de logiciels vous promettent des solutions miracles, mais à long terme, elles s'avèrent souvent insuffisantes. Il vous faudra toujours quelqu'un pour vous alerter sur les spécificités des dossiers.",
+      "h6_3": "La conclusion est souvent la même:",
+      "p_3": "Vous avez besoin de personnel, mais la concurrence et les tarifs pratiqués rendent l'équation difficile. Il devient compliqué de dégager une rentabilité à la hauteur de votre investissement en temps et en argent",
+      "h5": "Prenez le temps de nous connaître et de juger notre offre."
+    },
+    "bc1": {
+      "h1": "Un Seul Indicateur",
+      "h5": "L'efficacité Économique de Votre Cabinet à Moyen Terme.",
+      "h6_1": "L'Outsourcing : Une Solution Pleine de Promesses, Mais...",
+      "p_1": "On vous a proposé des solutions d'outsourcing, avec des résultats plus ou moins satisfaisants. Vous en comprenez bien l'intérêt économique, mais franchir le pas reste une question délicate. Comment s'assurer que la solution est réversible ? Comment l'intégrer efficacement dans le cabinet ? Quels seront les impacts juridiques et organisationnels à venir ? Et surtout, est-ce un tremplin vers d'autres opportunités de création de valeur ?",
+      "h6_2": "O.M.C : Une Plateforme par et pour les Experts-Comptables",
+      "p_2": "O.M.C est une plateforme créée par des experts-comptables indépendants, sans affiliation à un réseau particulier. Nous partageons les préoccupations évoquées ci-dessus. Contrairement à un salarié classique, la solution O.M.C se veut rentable dès le premier mois de mise en place, avec des conditions de résiliation peu contraignantes. L'équation est simple : la rentabilité de vos dossiers doit augmenter immédiatement et de façon continue, à condition que vous ayez un degré suffisant de dématérialisation. C'est notre unique indicateur de succès."
+    },
+    "bc2": {
+      "h1_1": "L'Avenir Incertain de la Profession Comptable : Quelles Solutions ?",
+      "p1": "Selon une récente étude, la profession de comptable est parmi celles les plus menacées de disparition. Face à ce constat, quelles sont les solutions possibles ?",
+      "h6_1": "Les Illusions des Congrès",
+      "p_1": "Les congrès se succèdent et se ressemblent. À chaque retour, nous avons tous le sentiment d'avoir trouvé la formule gagnante, le logiciel miracle qui nous donnera un avantage compétitif sur nos confrères. Mais la réalité s'impose : paramétrer les comptes au quotidien, vérifier les comptes 408, gérer les comptes d'attente avec des clients qui prétendent avoir déjà fourni les pièces plusieurs fois... Tout cela est extrêmement chronophage.",
+      "h6_2": "La Limite des Logiciels Comptables",
+      "p_2": "Certes, les éditeurs de logiciels comptables jouent un rôle crucial et le choix du progiciel est stratégique. Cependant, un logiciel, aussi performant soit-il, ne peut se suffire à lui-même. Sans l'expertise humaine pour le faire fonctionner, l'améliorer et l'adapter, le processus reste incomplet.",
+      "h6_3": "L’Outsourcing : Une Solution Viable",
+      "p_3": "Dans ce contexte, l'outsourcing se présente comme une solution viable. Bien qu'elle ne soit pas nouvelle — Ernst & Young l'utilise depuis les années 2000 avec l'Inde comme référence dans le monde anglo-saxon —, cette approche est souvent perçue comme réservée aux grands cabinets.",
+      "h1_2": "Pourquoi Choisir O.M.C ?",
+      "p2": "C'est là que O.M.C intervient. Nous nous adressons spécifiquement aux cabinets de taille moyenne qui n'ont peut-être pas les ressources techniques, juridiques et organisationnelles pour adopter les méthodes des BIG. Avec O.M.C, vous bénéficiez d'une solution adaptée, vous permettant de rester compétitif dans un environnement en constante évolution.",
+      "btn": "Commencez dés maintenant"
+    }
+  },
+  "legal": {
+    "tl": "Mentions Légales",
+    "st1": {
+      "tl": "1. Présentation du site",
+      "li1": "En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site omc-solutions.fr l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi :",
+      "li2": "Propriétaire : ",
+      "li3": "Créateur : ",
+      "li4": "Capital social : ",
+      "li5": "Responsable publication : ",
+      "li6": "Hébergeur : ",
+      "li7": "Localisation du serveur d'hébergement :"
+    },
+    "st2": {
+      "tl": "2. Conditions générales d’utilisation du site et des services proposés",
+      "p1": "L’utilisation du site omc-solutions.fr implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs du site omc-solutions.fr sont donc invités à les consulter de manière régulière.",
+      "p2": "Ce site est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance technique peut être toutefois décidée par OUTSOURCING MALAGASY CORPORATION , qui s’efforcera alors de communiquer préalablement aux utilisateurs les dates et heures de l’intervention.",
+      "p3": "Le site omc-solutions.fr est mis à jour régulièrement par OUTSOURCING MALAGASY CORPORATION . De la même façon, les mentions légales peuvent être modifiées à tout moment : elles s’imposent néanmoins à l’utilisateur qui est invité à s’y référer le plus souvent possible afin d’en prendre connaissance."
+    },
+    "st3": {
+      "tl": "3. Description des services fournis",
+      "p1": "Le site omc-solutions.fr a pour objet de fournir une information concernant l’ensemble des activités de la société.",
+      "p2": "OUTSOURCING MALAGASY CORPORATION s’efforce de fournir sur le site omc-solutions.fr des informations aussi précises que possible. Toutefois, il ne pourra être tenue responsable des omissions, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.",
+      "p3": "Toutes les informations indiquées sur le site omc-solutions.fr sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site omc-solutions.fr ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne."
+    },
+    "st4": {
+      "tl": "4. Limitations contractuelles sur les données techniques",
+      "p1": "Le site utilise la technologie JavaScript.",
+      "p2": "Le site Internet ne pourra être tenu responsable de dommages matériels liés à l’utilisation du site. De plus, l’utilisateur du site s’engage à accéder au site en utilisant un matériel récent, ne contenant pas de virus et avec un navigateur de dernière génération mis-à-jour."
+    },
+    "st5": {
+      "tl": "5. Propriété intellectuelle et contrefaçons",
+      "p1": "OUTSOURCING MALAGASY CORPORATION est propriétaire des droits de propriété intellectuelle ou détient les droits d’usage sur tous les éléments accessibles sur le site, notamment les textes, images, graphismes, logo, icônes, sons, logiciels.",
+      "p2": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de : OUTSOURCING MALAGASY CORPORATION.",
+      "p3": "Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient sera considérée comme constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle."
+    },
+    "st6": {
+      "tl": "6. Limitations de responsabilité",
+      "p1": "OUTSOURCING MALAGASY CORPORATION ne pourra être tenue responsable des dommages directs et indirects causés au matériel de l’utilisateur, lors de l’accès au site omc-solutions.fr, et résultant soit de l’utilisation d’un matériel ne répondant pas aux spécifications indiquées au point 4, soit de l’apparition d’un bug ou d’une incompatibilité.",
+      "p2": "OUTSOURCING MALAGASY CORPORATION ne pourra également être tenue responsable des dommages indirects (tels par exemple qu’une perte de marché ou perte d’une chance) consécutifs à l’utilisation du site omc-solutions.fr.",
+      "p3": "Des espaces interactifs (possibilité de poser des questions dans l’espace contact) sont à la disposition des utilisateurs. OUTSOURCING MALAGASY CORPORATION se réserve le droit de supprimer, sans mise en demeure préalable, tout contenu déposé dans cet espace qui contreviendrait à la législation applicable en France, en particulier aux dispositions relatives à la protection des données. Le cas échéant, OUTSOURCING MALAGASY CORPORATION se réserve également la possibilité de mettre en cause la responsabilité civile et/ou pénale de l’utilisateur, notamment en cas de message à caractère raciste, injurieux, diffamant, ou pornographique, quelque soit le support utilisé (texte, photographie…)."
+    },
+    "st7": {
+      "tl": "7. Gestion des données personnelles",
+      "p1": "En France, les données personnelles sont notamment protégées par la loi n° 78-87 du 6 janvier 1978, la loi n° 2004-801 du 6 août 2004, l'article L. 226-13 du Code pénal et la Directive Européenne du 24 octobre 1995. ",
+      "p2": "A l'occasion de l'utilisation du site omc-solutions.fr, peuvent êtres recueillies : l'URL des liens par l'intermédiaire desquels l'utilisateur a accédé au site omc-solutions.fr, le fournisseur d'accès de l'utilisateur, l'adresse de protocole Internet (IP) de l'utilisateur.",
+      "p3": "En tout état de cause OUTSOURCING MALAGASY CORPORATION ne collecte des informations personnelles relatives à l'utilisateur que pour le besoin de certains services proposés par le site omc-solutions.fr. L'utilisateur fournit ces informations en toute connaissance de cause, notamment lorsqu'il procède par lui-même à leur saisie. Il est alors précisé à l'utilisateur du site omc-solutions.fr l’obligation ou non de fournir ces informations.",
+      "p4": "Conformément aux dispositions des articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une copie du titre d’identité avec signature du titulaire de la pièce, en précisant l’adresse à laquelle la réponse doit être envoyée.",
+      "p5": "Aucune information personnelle de l'utilisateur du site omc-solutions.fr n'est publiée à l'insu de l'utilisateur, échangée, transférée, cédée ou vendue sur un support quelconque à des tiers. Seule l'hypothèse du rachat de OUTSOURCING MALAGASY CORPORATION et de ses droits permettrait la transmission des dites informations à l'éventuel acquéreur qui serait à son tour tenu de la même obligation de conservation et de modification des données vis à vis de l'utilisateur du site omc-solutions.fr.",
+      "p6": "Vous avez le droit de vous inscrire sur la liste d'opposition au démarchage téléphonique, disponible à cette adresse: Bloctel.gouv.fr.",
+      "p7": "Les bases de données sont protégées par les dispositions de la loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 relative à la protection juridique des bases de données."
+    },
+    "st8": {
+      "tl": "8. Liens hypertextes et cookies",
+      "p1": "Le site omc-solutions.fr contient un certain nombre de liens hypertextes vers d’autres sites, mis en place avec l’autorisation de OUTSOURCING MALAGASY CORPORATION . Cependant, OUTSOURCING MALAGASY CORPORATION n’a pas la possibilité de vérifier le contenu des sites ainsi visités, et n’assumera en conséquence aucune responsabilité de ce fait.",
+      "p2": "La navigation sur le site omc-solutions.fr est susceptible de provoquer l’installation de cookie(s) sur l’ordinateur de l’utilisateur. Un cookie est un fichier de petite taille, qui ne permet pas l’identification de l’utilisateur, mais qui enregistre des informations relatives à la navigation d’un ordinateur sur un site. Les données ainsi obtenues visent à faciliter la navigation ultérieure sur le site, et ont également vocation à permettre diverses mesures de fréquentation.",
+      "p3": "Le refus d’installation d’un cookie peut entraîner l’impossibilité d’accéder à certains services. L’utilisateur peut toutefois configurer son ordinateur de la manière suivante, pour refuser l’installation des cookies :",
+      "p4": "Sous Internet Explorer : onglet outil (pictogramme en forme de rouage en haut a droite) / options internet. Cliquez sur Confidentialité et choisissez Bloquer tous les cookies. Validez sur Ok.",
+      "p5": "Sous Firefox : en haut de la fenêtre du navigateur, cliquez sur le bouton Firefox, puis aller dans l'onglet Options. Cliquer sur l'onglet Vie privée. Paramétrez les Règles de conservation sur : utiliser les paramètres personnalisés pour l'historique. Enfin décochez-la pour désactiver les cookies.",
+      "p6": "Sous Safari : Cliquez en haut à droite du navigateur sur le pictogramme de menu (symbolisé par un rouage). Sélectionnez Paramètres. Cliquez sur Afficher les paramètres avancés. Dans la section &quot;Confidentialité&quot;, cliquez sur Paramètres de contenu. Dans la section &quot;Cookies&quot;, vous pouvez bloquer les cookies.",
+      "p7": "Sous Chrome : Cliquez en haut à droite du navigateur sur le pictogramme de menu (symbolisé par trois lignes horizontales). Sélectionnez Paramètres. Cliquez sur Afficher les paramètres avancés. Dans la section &quot;Confidentialité&quot;, cliquez sur préférences. Dans l'onglet &quot;Confidentialité&quot;, vous pouvez bloquer les cookies."
+    },
+    "st9": {
+      "tl": "9. Droit applicable et attribution de juridiction",
+      "p": "Tout litige en relation avec l’utilisation du site omc-solutions.fr est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents."
+    },
+    "st10": {
+      "tl": "10. Les principales lois concernées",
+      "p1": "Loi n° 78-17 du 6 janvier 1978, notamment modifiée par la loi n° 2004-801 du 6 août 2004 relative à l'informatique, aux fichiers et aux libertés.",
+      "p2": "Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique."
+    },
+    "st11": {
+      "tl": "11. Lexique",
+      "p1": "Utilisateur : Internaute se connectant, utilisant le site susnommé.",
+      "p2": "Informations personnelles : « les informations qui permettent, sous quelque forme que ce soit, directement ou non, l'identification des personnes physiques auxquelles elles s'appliquent » (article 4 de la loi n° 78-17 du 6 janvier 1978)."
+    }
+  },
+  "politic": {
+    "tl": "Politique de vente et Confidentialité",
+    "st1": {
+      "h1": "Conditions générales de vente OMC",
+      "tl": "Article 1 : Dispositions générales",
+      "p1": "Les présentes Conditions Générales de Vente sont applicables aux contrats portant sur l’externalisation la comptabilité et aux services associés, conclue entre la société OMC -Outsourcing Malagasy CORPORATION, Société à responsabilité au capital de 5 000 000 d’ariary ayant pour numéro 69 1031 2024 0 00068 et dont le siège social est Lot D520 CN° lle1/46 Matsiananana -501 Toamasina I -Madagascar ci- après dénommée « OMC » et un client, ci-après dénommé « le Client », ensemble dénommés « les Parties ».",
+      "p2": "Le contrat, ci-après dénommé « le Contrat », est composé des présentes conditions générales de vente, ci-après dénommées « CGV », et des conditions particulières de vente, ci-après dénommées « CPV » (qui peuvent prendre la forme d’un devis accepté, d’un bon de commande accepté ou d’une lettre de missions acceptée par le client).",
+      "p3": "Le Contrat ne comprend aucun autre document, notamment les conditions générales d’achat du Client, quel que soit le moment où il est porté à la connaissance de OMC.",
+      "p4": "Le Contrat constitue le socle unique de la relation commerciale entre OMC et le Client."
+    },
+    "st2": {
+      "tl": "Article 2 : Mission",
+      "p1": "Dans le cadre d’un contrat d’externalisation et/ou d’assistance à la tenue comptable de vos clients de la part de OMC, les responsabilités se limitent à la période et aux délais sont définis dans les CPV.",
+      "p2": "Toute intervention sur une période non comprise dans la période définie au CPV et toute autre mission que celle définie au CPV feront l’objet d’une facturation complémentaire."
+    },
+    "st3": {
+      "tl": "Article 3 : Obligation du Client",
+      "p1": "Le Client qui signe une CPV accepte tacitement les présentes CGV et toutes les mises à jour futures des CGV dont il aura été informé et qu’il n’aura pas contestées.",
+      "p2": "Le Client s’engage à utiliser les outils mis à disposition par OMC et à respecter les délais définis au CPV. Le non-respect des délais peut entrainer une facturation complémentaire pour travail urgent.",
+      "p3": "Le Client s’engage à communiquer par voie électronique dans les meilleurs délais à OMC au démarrage de la mission ou à la survenance de l’évènement : ",
+      "li1": "Tout accident du travail impérativement le jour de sa survenance. Le Client s’engage à communiquer par voie électronique chaque mois et dans les délais définis au CPV les éléments variables de traitement de la comptabilité."
+    },
+    "st4": {
+      "tl": "Article 4 : Obligation de OMC",
+      "p1": "OMC fournit les moyens de productions permettant au client sous réserve que les informations nécessaires aient été transmises sans retard.",
+      "p2": "OMC fournit au Client la liste des informations nécessaires à l’établissement de la mission.",
+      "p3": "OMC s’engage à ne collecter les informations personnelles dans la mesure où elles sont utiles à sa mission.",
+      "p4": "La société OMC en tant que spécialiste de la sous-traitance comptable assure une veille. Elle s’engage à mettre à jour toutes modifications légales connues ayant des incidences sa mission et à communiquer au Client tout changement effectué sur la paie résultant desdites modifications légales. Certaines modifications légales doivent souvent faire l’objet d’un décret d’application. La société OMC en informera le Client et prendront conjointement la décision la plus adaptée à la situation.",
+      "p5": "Les Parties s’engagent à respecter la règlementation en vigueur relative aux traitements de données à caractère personnel, notamment le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016, relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données (RGPD).",
+      "p6": "Conformément à la loi française « informatique et libertés » du 6 janvier 1978 modifiée en 2004, vous bénéficiez d’un droit d’accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant à OMC par voie postale ou via les outils mis à disposition par OMC.",
+      "p7": "La responsabilité civile de OMC à l’égard du Client est couverte par un contrat d’assurance responsabilité civile professionnelle.",
+      "p8": "La responsabilité de OMC ne pourra être mise en cause dans le cas où le préjudice subi par le Client résulte :",
+      "li1": "D’informations erronées ou incomplètes transmises par le Client où par un tiers sous la responsabilité du Client.",
+      "li2": "D’informations transmises en dehors des délais prévus dans les CPV, ou de façon qui rende impossible leur traitement dans les délais nécessaires.",
+      "li3": "De fautes commises par un tiers intervenant chez le client."
+    },
+    "st5": {
+      "tl": "Article 5 : Durée du contrat",
+      "p": "Sauf disposition contraire dans les CPV, le Contrat est conclu pour une période d’un an et est renouvelable par tacite reconduction."
+    },
+    "st6": {
+      "tl": "Article 6 : Résiliation",
+      "p1": "Le Contrat est résiliable par le Client sans motif particulier ni pénalité par courrier recommandé au minimum un mois avant la date de fin de contrat souhaitée.",
+      "p2": "Le Contrat peut être résilié par OMC sans motif particulier ni pénalité par courrier recommandé au minimum quatre mois avant la date de fin de contrat souhaité.",
+      "p3": "En cas de manquement d’une des Partie à ses obligations le Contrat peut être résilié de plein droit par courrier recommandé un mois avant la date de résiliation notamment :",
+      "li1": "En cas de non-paiement par le Client de plusieurs échéances dues.",
+      "li2": "En cas de retard chronique du Client dans la transmission des informations nécessaires à la mission de OMC.",
+      "li3": "En cas de comportement inapproprié d’une des Partie ou d’activité faisant obstacle à la réalisation du Contrat.",
+      "p4": "En cas de force majeur le Contrat peut être suspendu ou résilié par le Client par courrier recommandé un mois avant la date de résiliation.",
+      "p5": "En cas de résiliation du Contrat toutes les prestations réalisées restent dues par le Client."
+    },
+    "st7": {
+      "tl": "Article 7 : Tarifs",
+      "p1": "Sauf disposition contraire dans les CPV les tarifs applicables sont ceux disponibles sur le site internet de OMC.",
+      "p2": "Les tarifs sont révisables par OMC au 1 er janvier et au 1er juillet de chaque année. OMC s’engage à informer le Client de toute modification tarifaire au moins un mois avant son entrée en vigueur."
+    },
+    "st8": {
+      "tl": "Article 8 : Paiements",
+      "p1": "Les paiements se font chaque mois par prélèvement SEPA le 10 du mois suivant la période de paie.",
+      "p2": "En cas de rejet du prélèvement OMC peut appliquer des frais de 20€ par rejet, puis de 40€ par rejet si le retard de paiement est de plus de 30 jours.",
+      "p3": "La non-application de ces pénalités pour un rejet de prélèvement, n’exclut pas leur application lors des rejets suivants."
+    },
+    "st9": {
+      "tl": "Article 9 : Confidentialité",
+      "p1": "Le Client s’engage à ne pas communiquer à des tiers, sous quelque forme que ce soit, les informations écrites ou orales, interventions techniques ou savoir-faire de la société OMC qui pourraient être portées à sa connaissance sans l’accord écrit d’un responsable de OMC.",
+      "p2": "OMC s’engage à ne pas communiquer, sous quelque forme que ce soit, toute information écrite ou orale transmise par le client sans son autorisation écrite, à des tiers autres que ceux nécessaire à l’exécution du contrat."
+    },
+    "st10": {
+      "tl": "Article 10 : Divisibilité des clauses",
+      "p": "La nullité d’une des clauses du Contrat n’entrainent pas la nullité des autres clauses du Contrat."
+    },
+    "st11": {
+      "tl": "Article 11 : Réclamations et tribunal compétent",
+      "p1": "Toute réclamation doit être adresser au siège social de la société OMC – Lot D520 CN° lle1/46 Matsiananana -501 Toamasina I -Madagascar. Toute réclamation concernant une période non couverte par les CPV est considérée comme nulle et non avenue.",
+      "p2": "Toute réclamation qui n’est pas transmise dans un délai d’un an après que le Client en ait eu connaissance est considérée comme nulle et non avenue.",
+      "p3": "En cas d’échec d’une conciliation amiable entre les Parties la juridiction compétente est le tribunal de commerce de Tamatave."
+    }
+  },
+  "error": {
+    "p": "Page non trouvée",
+    "bt": "RETOUR A L'ACCUEIL"
+  }
+}

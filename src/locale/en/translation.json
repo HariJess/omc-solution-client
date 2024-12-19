@@ -1,0 +1,372 @@
+{
+  "header": {
+    "nav_1": "Home",
+    "nav_2": {
+      "def": "About us",
+      "dp_1": "Our story",
+      "dp_des_1": "Find out more about us.",
+      "dp_2": "Our prices",
+      "dp_des_2": "See more about our pricing solutions adapted to your specific needs."
+    },
+    "nav_3": "Contact",
+    "nav_4": "Join Us",
+    "nav_5": {
+      "text_2": "Choose a language",
+      "text_3": "Francais",
+      "text_4": "English",
+      "text_5": "Apply",
+      "text_6": "Close"
+    },
+    "cookie": {
+      "text_1": "This website uses cookies. See our ",
+      "text_2": "privacy policy",
+      "text_3": "for more.",
+      "bt_1": "Accept cookies",
+      "bt_2": "Decline"
+    }
+  },
+  "footer": {
+    "nav_1": "Home",
+    "nav_2": "About us",
+    "nav_3": "Contact",
+    "nav_4": "Join us",
+    "nav_5": "Terms of use",
+    "nav_6": "Privacy Policy"
+  },
+  "home": {
+    "hero1": {
+      "txt1": "Outsourcing Malagasy Compagny, A Revolution in Outsourcing",
+      "txt2": "Take an innovative approach with O.M.C. ! We replace obsolete data entry models in France with modern and efficient outsourcing solutions, adapted to current market challenges.",
+      "bt_1": "LEARN MORE"
+    },
+    "hero2": {
+      "txt1": "Develop Your Competitive Advantage",
+      "txt2": "O.M.C is connected to France, Reunion Island and Mayotte.",
+      "txt3": "Use outsourcing to lighten your cost structure and focus on customer relations.",
+      "bt_1": "CONTACT US"
+    },
+    "section1": {
+      "title": "Our office",
+      "des": "Outsourcing Malagasy Compagny (O.M.C) is a Malagasy company located in the heart of Antananarivo, Madagascar. Specializing in outsourcing solutions for accounting firms, O.M.C offers quality services, adapted to the needs of all companies.",
+      "bt": "SEE MORE"
+    },
+    "section2": {
+      "title": "Our Skills",
+      "txt1": "O.M.C employees are trained in several accounting systems such as QUADRATUS, MYUNISOFT, SAGE 100 comptabilité i7, SAGE COALA, SAGE COMPTA, ACD, PENNYLANE and IRIUM. To ensure effective outsourcing, it is recommended to appoint an outsourcing representative within your firm. This referent will train our employees in your system and organization, serving as an initial liaison.",
+      "txt2": "The optimal model is for one employee from your firm to supervise three Malagasy employees."
+    },
+    "section3": {
+      "title": "Setting up outsourcing",
+      "des": "Our employees work directly on your system, following these steps:",
+      "blk": {
+        "t1": "Secure Access to the Software",
+        "d1": "You grant us access rights to your accounting software. This ensures smooth and secure integration into your system.",
+        "t2": "Choice of files to outsource",
+        "d2": "Define the folders you want to outsource. You maintain control while delegating time-consuming tasks.",
+        "t3": "Compliance with your standards",
+        "d3": "Our employees work in real time on your software. Your operations remain up to date and in compliance with your standards.",
+        "t4": "Real-Time Production Monitoring",
+        "d4": "Supervise production in real time. You keep an overview and adjust processes if necessary."
+      }
+    },
+    "section4": {
+      "title": "Why choose O.M.C?",
+      "des": "We are committed to improving the economic efficiency of your practice through tailored solutions and highly qualified employees. With our approach focused on cost reduction and process optimization, you will see a significant improvement of your profitability from the first month of collaboration.",
+      "blk": {
+        "t1": "Professional Expertise",
+        "d1": "Our employees have at least a Bac+4 degree and have solid experience in the field of accounting. They are trained to quickly adapt to your systems and your specific needs.",
+        "t2": "Compliance and Security",
+        "d2": "We ensure full compliance with the GDPR, guaranteeing that your data is treated with the utmost care and compliance with security standards.",
+        "t3": "Efficient Integration",
+        "d3": "Through targeted training, our teams quickly adapt to your processes, minimizing the time needed for an effective transition."
+      }
+    },
+    "section5": {
+      "title": "Our Prices",
+      "des": "Discover our competitive pricing solutions, designed to offer quality expertise at optimized costs, adapted to your specific needs.",
+      "blk1": {
+        "title": "Services offered",
+        "p1": "Billing on file ",
+        "p2": "A part-time employee",
+        "p3": "A full-time employee",
+        "p5": { "t": "Other specific request" }
+      },
+      "blk2": {
+        "title": "Pay",
+        "des": "This rate depends on all the tasks related to the creation and management of pay slips, guaranteeing compliance and accuracy in the processing of remuneration.",
+        "bt": "MORE DETAILS"
+      }
+    },
+    "section6": {
+      "title": "Join us",
+      "des": "Join O.M.C and be part of a dynamic team that is redefining outsourcing.",
+      "bt": "JOIN US"
+    },
+    "section7": {
+      "title": "Contact us",
+      "des": "We are on hand to answer any questions you may have and provide any assistance you may need. Whether to obtain additional information about our services, discuss your specific needs or simply to we are part of your feedback, do not hesitate to contact us Our team is here to offer you fast and efficient support.",
+      "form": {
+        "tlt": "Contact form",
+        "des": "Contact us now!",
+        "name": "Name*",
+        "email": "Email address*",
+        "sct": "Company*",
+        "phone": "Telephone*",
+        "mess": "Message*",
+        "btn": "SEND"
+      }
+    }
+  },
+  "join": {
+    "title": "Join us",
+    "des": "Outsourcing Malagasy Compagny (O.M.C) is always looking for dynamic and passionate talents to join our team. If you want to evolve in a stimulating environment where innovation and professionalism are valued, we would be delighted to learn more about you.",
+    "bt1": {
+      "title": "SEE MORE",
+      "tl": "How to apply?",
+      "d1": "To submit your application, please send us your CV and a cover letter on the contact page (option: Recruitment).",
+      "d2": "Don't forget to specify the position you wish to apply for!",
+      "bt1": "OK, I UNDERSTAND",
+      "bt2": "CLOSE"
+    },
+    "bt2": "START NOW"
+  },
+  "contact": {
+    "title1": "Contact us",
+    "form": {
+      "n": "Name*",
+      "pn": "First name*",
+      "ml": "Email address*",
+      "sc": "Company",
+      "ph": "Phone*",
+      "op": "Please choose an option",
+      "op1": "Making contact",
+      "op2": "Request a quote",
+      "op3": "Recruitment",
+      "ms": "Message*",
+      "of": "Offer details",
+      "tm": "I accept the processing of my personal data by O.M.C. only as part of my contact request.",
+      "cv": "Select your CV",
+      "lm": "Select your cover letter",
+      "bt": "SEND MESSAGE"
+    },
+    "title2": {
+      "h2_1": "Our location",
+      "p": "Located in the business district of Antananarivo, our office benefits from a high quality internet connection, thanks to optical fiber rated the best on the African continent. We are surrounded by the best hotels and offer services that meet the needs of highest European standards.",
+      "h6_1": "Address",
+      "h6_2": "Phone",
+      "h6_3": "Director",
+      "h2_2": "Our historical partners in the French Southern Zone"
+    }
+  },
+  "price": {
+    "title": "Our Prices and Services",
+    "des": "Malagasy legislation provides for a weekly working time of 42 hours per week and 15 days of leave per year. Your working time is thus extended to Saturday morning all year round which is rarely the cases in Europe.",
+    "bc1": {
+      "p": "The most common tasks",
+      "li1": "Simple input, image-based input, semi-automated recognition input for improved character recognition.",
+      "li2": "Bank reconciliation, use and configuration of ETEBAC.",
+      "li3": "Lettering and pre-lettering of accounts.",
+      "li4": "Calculation of depreciation charges.",
+      "li5": "Report anomalies to your file managers in written notes that you can send to your customers."
+    },
+    "bc2": {
+      "p": "The price is decreasing taking into account the number of employees. The prices are in euros, the exchange risk is thus eliminated."
+    },
+    "opt": "Option",
+    "p": "Thanks to our lawyer, we can also manage traditional legal matters (preparation of AGMs, AGOA, EGM, creation, dissolution, capital increase, etc.)",
+    "btn": "START NOW"
+  },
+  "about": {
+    "title1": "About us",
+    "des": "is the result of collaboration between a network of accountants with dual Malagasy and French nationality. Our structure supports accounting firms of all sizes, located both in Paris and in the departments of Réunion and Mayotte We specialize in providing tailor-made outsourcing solutions, adapted to the specific needs of accounting firms.",
+    "bc": {
+      "h1": "Your recruitment and organizational difficulties?",
+      "h6_1": "The Challenges of Accounting Firms",
+      "p_1": "Headhunting firms are expensive and often offer unpredictable results. Your employees lack loyalty, and you are constantly faced with managing increasingly tight production schedules (VAT, corporate tax deposits). , etc.).",
+      "h6_2": "The Limits of Software Solutions",
+      "p_2": "Software publishers promise you miracle solutions, but in the long term, they often turn out to be insufficient. You will always need someone to alert you to the specifics of the files.",
+      "h6_3": "The conclusion is often the same:",
+      "p_3": "You need staff, but competition and prices make the equation difficult. It becomes complicated to generate profitability that matches your investment in time and money",
+      "h5": "Take the time to get to know us and judge our offer."
+    },
+    "bc1": {
+      "h1": "A Single Indicator",
+      "h5": "The Economic Efficiency of Your Firm in the Medium Term.",
+      "h6_1": "Outsourcing: A Solution Full of Promise, But...",
+      "p_1": "You have been offered outsourcing solutions, with more or less satisfactory results. You understand the economic interest, but taking the plunge remains a delicate question. How to ensure that the solution is reversible How to integrate it effectively into the firm? What will be the legal and organizational impacts in the future? And above all, is it a springboard towards other value creation opportunities?",
+      "h6_2": "O.M.C: A Platform by and for Chartered Accountants",
+      "p_2": "O.M.C is a platform created by independent accountants, without affiliation to a particular network. We share the concerns mentioned above. Unlike a traditional employee, the O.M.C solution is intended to be profitable from the first month of implementation, with unrestrictive termination conditions The equation is simple: the profitability of your files must increase immediately and continuously, provided that you have a sufficient degree of dematerialization. This is our only indicator of success. ."
+    },
+    "bc2": {
+      "h1_1": "The Uncertain Future of the Accounting Profession: What Solutions?",
+      "p1": "According to a recent study, the accounting profession is among those most threatened with disappearance. Faced with this observation, what are the possible solutions?",
+      "h6_1": "The Illusions of the Congresses",
+      "p_1": "Congresses come one after the other and are similar. Each time we return, we all have the feeling of having found the winning formula, the miracle software that will give us a competitive advantage over our colleagues. But reality sets in: setting up accounts on a daily basis, checking 408 accounts, managing suspense accounts with customers who claim to have already provided the documents several times... All of this is extremely time-consuming.",
+      "h6_2": "The Limit of Accounting Software",
+      "p_2": "Certainly, accounting software publishers play a crucial role and the choice of software package is strategic. However, software, however efficient it may be, cannot be sufficient in itself. Without human expertise to make it work, improve it and adapt it, the process remains incomplete.",
+      "h6_3": "Outsourcing: A Viable Solution",
+      "p_3": "In this context, outsourcing presents itself as a viable solution. Although it is not new — Ernst & Young has been using it since the 2000s with India as a reference in the Anglo-Saxon world —, this approach is often perceived as reserved for large firms.",
+      "h1_2": "Why Choose O.M.C?",
+      "p2": "This is where O.M.C comes in. We are specifically aimed at medium-sized firms who may not have the technical, legal and organizational resources to adopt BIG methods. With O.M.C, you benefit from 'a suitable solution, allowing you to remain competitive in a constantly evolving environment.",
+      "btn": "Start now"
+    }
+  },
+  "legal": {
+    "tl": "Term of Use",
+    "st1": {
+      "tl": "1. Presentation of the website",
+      "li1": "Pursuant to Article 6 of Law No. 2004-575 of June 21, 2004, for confidence in the digital economy, it is specified to users of the omc-solutions.fr website the identity of the various parties involved in its creation and monitoring:",
+      "li2": "Owner : ",
+      "li3": "Creator : ",
+      "li4": "Share capital : ",
+      "li5": "Publication manager : ",
+      "li6": "Host : ",
+      "li7": "Location of the hosting server :"
+    },
+    "st2": {
+      "tl": "2. General terms of use of the website and services provided",
+      "p1": "The use of the omc-solutions.fr site implies full acceptance of the general terms of use described below. These terms of use may be modified or supplemented at any time, so users of the omc-solutions.fr site are invited to review them regularly.",
+      "p2": "This site is normally accessible to users at any time. However, an interruption for technical maintenance may be decided by OUTSOURCING MALAGASY CORPORATION, which will then endeavor to communicate to users the dates and times of the intervention in advance.",
+      "p3": "The omc-solutions.fr website is regularly updated by OUTSOURCING MALAGASY CORPORATION. In the same way, Term of Uses may be modified at any time: they are binding on the user, who is invited to refer to them as often as possible in order to be aware of them."
+    },
+    "st3": {
+      "tl": "3. Description of services provided",
+      "p1": "The purpose of the omc-solutions.fr site is to provide information concerning all activities of the company.",
+      "p2": "OUTSOURCING MALAGASY CORPORATION strives to provide information on the omc-solutions.fr site that is as accurate as possible. However, it cannot be held responsible for omissions, inaccuracies, or deficiencies in updates, whether caused by itself or by third-party partners who provide such information.",
+      "p3": "All information provided on the omc-solutions.fr website is for informational purposes only and may change. Furthermore, the information on the omc-solutions.fr site is not exhaustive. It is provided subject to changes that may have been made since it was put online."
+    },
+    "st4": {
+      "tl": "4. Contractual limitations on technical data",
+      "p1": "The site uses JavaScript technology.",
+      "p2": "The website cannot be held responsible for material damages related to the use of the site. Moreover, the user of the site agrees to access the site using recent hardware, free from viruses, and with an up-to-date, latest-generation browser."
+    },
+    "st5": {
+      "tl": "5. Intellectual property and counterfeiting",
+      "p1": "OUTSOURCING MALAGASY CORPORATION owns the intellectual property rights or holds the usage rights on all elements accessible on the site, including texts, images, graphics, logo, icons, sounds, and software.",
+      "p2": "Any reproduction, representation, modification, publication, or adaptation of all or part of the elements of the site, by any means or process, is prohibited unless prior written authorization is obtained from OUTSOURCING MALAGASY CORPORATION.",
+      "p3": "Any unauthorized use of the site or any of its content will be considered an infringement and prosecuted in accordance with the provisions of Articles L.335-2 and following of the Intellectual Property Code."
+    },
+    "st6": {
+      "tl": "6. Limitation of liability",
+      "p1": "OUTSOURCING MALAGASY CORPORATION cannot be held responsible for direct or indirect damage to the user's hardware during access to the omc-solutions.fr site, resulting either from the use of equipment that does not meet the specifications indicated in point 4, or from the appearance of a bug or incompatibility.",
+      "p2": "OUTSOURCING MALAGASY CORPORATION also cannot be held responsible for indirect damages (such as loss of market or loss of opportunity) resulting from the use of the omc-solutions.fr website.",
+      "p3": "Interactive spaces (possibility to ask questions in the contact area) are available to users. OUTSOURCING MALAGASY CORPORATION reserves the right to remove, without prior notice, any content placed in this space that violates the applicable laws in France, particularly the provisions concerning data protection. OUTSOURCING MALAGASY CORPORATION also reserves the right to hold the user civilly and/or criminally liable, particularly in the case of messages of a racist, insulting, defamatory, or pornographic nature, regardless of the medium used (text, photography...)."
+    },
+    "st7": {
+      "tl": "7. Management of personal data",
+      "p1": "In France, personal data is protected by Law No. 78-87 of January 6, 1978, Law No. 2004-801 of August 6, 2004, Article L. 226-13 of the Penal Code, and the European Directive of October 24, 1995.",
+      "p2": "When using the omc-solutions.fr site, the following information may be collected: the URL of the links through which the user accessed the omc-solutions.fr site, the user's access provider, the user's Internet Protocol (IP) address.",
+      "p3": "In any case, OUTSOURCING MALAGASY CORPORATION only collects personal information about the user for the purpose of certain services offered by the omc-solutions.fr site. The user provides this information with full knowledge of the facts, particularly when entering it themselves. It is then specified to the user of the omc-solutions.fr site whether or not they are required to provide this information.",
+      "p4": "In accordance with the provisions of Articles 38 and following of Law 78-17 of January 6, 1978, regarding information technology, files, and freedoms, every user has the right to access, rectify, and oppose personal data concerning them, by submitting a signed written request, accompanied by a copy of an identity document with the signature of the holder, specifying the address to which the response should be sent.",
+      "p5": "No personal information of the user of the omc-solutions.fr site is published without the user's knowledge, exchanged, transferred, assigned, or sold on any medium to third parties. Only in the event of the acquisition of OUTSOURCING MALAGASY CORPORATION and its rights would the transmission of such information to the potential purchaser occur, who would in turn be bound by the same obligation to retain and modify data with respect to the user of the omc-solutions.fr site.",
+      "p6": "You have the right to register on the list opposing telemarketing, available at this address: Bloctel.gouv.fr.",
+      "p7": "Databases are protected by the provisions of the Law of July 1, 1998, transposing the Directive 96/9 of March 11, 1996, regarding the legal protection of databases."
+    },
+    "st8": {
+      "tl": "8. Hypertext links and cookies",
+      "p1": "The omc-solutions.fr site contains a number of hypertext links to other sites, set up with the authorization of OUTSOURCING MALAGASY CORPORATION. However, OUTSOURCING MALAGASY CORPORATION does not have the ability to verify the content of the sites visited, and will therefore assume no responsibility in this regard.",
+      "p2": "Browsing on the omc-solutions.fr site may result in the installation of cookie(s) on the user's computer. A cookie is a small file, which does not allow user identification, but records information relating to the navigation of a computer on a site. The data thus obtained aims to facilitate subsequent navigation on the site and also serves to enable various traffic measurements.",
+      "p3": "Refusal to install a cookie may result in the inability to access certain services. The user can, however, configure their computer as follows, to refuse the installation of cookies:",
+      "p4": "On Internet Explorer: Tools tab (cogwheel icon at the top right) / Internet options. Click on Privacy and select Block all cookies. Confirm with Ok.",
+      "p5": "On Firefox: At the top of the browser window, click on the Firefox button, then go to the Options tab. Click on the Privacy tab. Set the Retention rules to: Use custom settings for history. Finally, uncheck it to disable cookies.",
+      "p6": "On Safari: Click at the top right of the browser on the menu icon (symbolized by a cogwheel). Select Settings. Click on Show advanced settings. In the Privacy section, click on Content settings. In the Cookies section, you can block cookies.",
+      "p7": "On Chrome: Click at the top right of the browser on the menu icon (symbolized by three horizontal lines). Select Settings. Click on Show advanced settings. In the Privacy section, click on preferences. In the Privacy tab, you can block cookies."
+    },
+    "st9": {
+      "tl": "9. Applicable law and jurisdiction",
+      "p": "Any dispute related to the use of the omc-solutions.fr site is subject to French law. Exclusive jurisdiction is granted to the competent courts of Paris."
+    },
+    "st10": {
+      "tl": "10. The main laws concerned",
+      "p1": "Law No. 78-17 of January 6, 1978, notably modified by Law No. 2004-801 of August 6, 2004, relating to information technology, files, and freedoms.",
+      "p2": "Law No. 2004-575 of June 21, 2004, for confidence in the digital economy."
+    },
+    "st11": {
+      "tl": "11. Lexicon",
+      "p1": "User: Internet user connecting to and using the aforementioned site.",
+      "p2": "Personal information: 'information which permits, in any form whatsoever, directly or indirectly, the identification of the natural persons to whom it applies' (Article 4 of Law No. 78-17 of January 6, 1978)."
+    }
+  },
+  "politic": {
+    "tl": "Privacy and Sales Policy",
+    "st1": {
+      "h1": "OMC General Terms of Sale",
+      "tl": "Article 1: General Provisions",
+      "p1": "These General Terms of Sale apply to outsourcing contracts related to accounting and associated services, entered into between the company OMC - Outsourcing Malagasy CORPORATION, a limited liability company with a capital of 5,000,000 ariary, registered under number 69 1031 2024 0 00068, and whose registered office is located at Lot D520 CN° lle1/46 Matsiananana -501 Toamasina I -Madagascar, hereinafter referred to as 'OMC', and a client, hereinafter referred to as 'the Client', collectively referred to as 'the Parties'.",
+      "p2": "The contract, hereinafter referred to as 'the Contract', is composed of these General Terms of Sale, hereinafter referred to as 'GTS', and the Special Terms of Sale, hereinafter referred to as 'STS' (which may take the form of an accepted quote, an accepted purchase order, or an accepted letter of engagement by the client).",
+      "p3": "The Contract does not include any other documents, including the client's general terms of purchase, regardless of when they are brought to OMC's attention.",
+      "p4": "The Contract constitutes the sole basis of the commercial relationship between OMC and the Client."
+    },
+    "st2": {
+      "tl": "Article 2: Mission",
+      "p1": "As part of an outsourcing and/or accounting assistance contract for your clients from OMC, responsibilities are limited to the period and deadlines defined in the STS.",
+      "p2": "Any intervention outside the period defined in the STS and any other mission not defined in the STS will be subject to additional billing."
+    },
+    "st3": {
+      "tl": "Article 3: Client Obligations",
+      "p1": "The Client who signs an STS tacitly accepts these GTS and any future updates to the GTS, which they will be informed of and will not contest.",
+      "p2": "The Client agrees to use the tools provided by OMC and to comply with the deadlines defined in the STS. Failure to meet the deadlines may result in additional billing for urgent work.",
+      "p3": "The Client agrees to electronically communicate to OMC as soon as possible at the start of the mission or upon the occurrence of the event:",
+      "li1": "Any work-related accident must be reported on the day it occurs. The Client agrees to electronically communicate monthly, within the deadlines defined in the STS, the variable elements necessary for accounting management."
+    },
+    "st4": {
+      "tl": "Article 4: OMC's Obligations",
+      "p1": "OMC provides the production means allowing the client, provided the necessary information has been transmitted without delay.",
+      "p2": "OMC provides the Client with a list of the necessary information to establish the mission.",
+      "p3": "OMC agrees to only collect personal information as necessary for its mission.",
+      "p4": "As a specialist in accounting outsourcing, OMC ensures regulatory monitoring. OMC agrees to update any known legal changes impacting its mission and to inform the Client of any payroll changes resulting from these legal modifications. Some legal changes may require a decree for application. OMC will inform the Client, and both parties will make the most suitable decision.",
+      "p5": "The Parties agree to comply with the applicable regulations regarding the processing of personal data, notably Regulation (EU) 2016/679 of the European Parliament and Council of 27 April 2016 on the protection of individuals regarding the processing of personal data and the free movement of such data (GDPR).",
+      "p6": "In accordance with the French 'Data Protection and Liberties' law of 6 January 1978, as amended in 2004, you have the right to access and rectify your data, which you may exercise by contacting OMC by mail or via the tools provided by OMC.",
+      "p7": "OMC's civil liability towards the Client is covered by a professional civil liability insurance contract.",
+      "p8": "OMC's liability cannot be invoked in the event that the Client's loss results from:",
+      "li1": "Incorrect or incomplete information provided by the Client or by a third party under the Client's responsibility.",
+      "li2": "Information provided outside the deadlines stipulated in the STS, or in such a manner that it makes processing within the necessary deadlines impossible.",
+      "li3": "Errors committed by a third party acting on the Client's behalf."
+    },
+    "st5": {
+      "tl": "Article 5: Contract Duration",
+      "p": "Unless otherwise specified in the STS, the Contract is concluded for a period of one year and is automatically renewable by tacit agreement."
+    },
+    "st6": {
+      "tl": "Article 6: Termination",
+      "p1": "The Contract may be terminated by the Client without specific reason or penalty by registered letter at least one month before the desired contract end date.",
+      "p2": "The Contract may be terminated by OMC without specific reason or penalty by registered letter at least four months before the desired contract end date.",
+      "p3": "In the event that one Party breaches its obligations, the Contract may be terminated by registered letter one month before the termination date, especially in cases of:",
+      "li1": "Non-payment by the Client of several outstanding amounts.",
+      "li2": "Chronic delay by the Client in providing the information necessary for OMC's mission.",
+      "li3": "Inappropriate behavior by one of the Parties or activities obstructing the execution of the Contract.",
+      "p4": "In the event of force majeure, the Contract may be suspended or terminated by the Client by registered letter one month before the termination date.",
+      "p5": "In the event of termination, all services rendered remain payable by the Client."
+    },
+    "st7": {
+      "tl": "Article 7: Pricing",
+      "p1": "Unless otherwise specified in the STS, the applicable prices are those available on OMC's website.",
+      "p2": "Prices are subject to revision by OMC on January 1st and July 1st of each year. OMC agrees to inform the Client of any price changes at least one month before they take effect."
+    },
+    "st8": {
+      "tl": "Article 8: Payments",
+      "p1": "Payments are made monthly by SEPA direct debit on the 10th of the month following the payroll period.",
+      "p2": "In the event of a direct debit rejection, OMC may charge fees of €20 per rejection, and €40 per rejection if the payment is delayed by more than 30 days.",
+      "p3": "Failure to apply these penalties for a rejected debit does not preclude their application for subsequent rejections."
+    },
+    "st9": {
+      "tl": "Article 9: Confidentiality",
+      "p1": "The Client agrees not to disclose to third parties, in any form, the written or oral information, technical interventions, or know-how of OMC that may come to their attention without the written consent of an OMC representative.",
+      "p2": "OMC agrees not to disclose, in any form, any written or oral information provided by the client without their written authorization, to any third party other than those necessary for the execution of the contract."
+    },
+    "st10": {
+      "tl": "Article 10: Severability of Clauses",
+      "p": "The invalidity of any clause of the Contract does not result in the invalidity of the other clauses of the Contract."
+    },
+    "st11": {
+      "tl": "Article 11: Complaints and Competent Court",
+      "p1": "Any complaint must be sent to the registered office of OMC – Lot D520 CN° lle1/46 Matsiananana -501 Toamasina I -Madagascar. Any complaint concerning a period not covered by the STS is considered null and void.",
+      "p2": "Any complaint not submitted within one year after the Client becomes aware of it is considered null and void.",
+      "p3": "In the event that an amicable settlement between the Parties fails, the competent jurisdiction is the Tamatave Commercial Court."
+    }
+  },
+  "error": {
+    "p": "Page not found",
+    "bt": "RETURN TO HOME"
+  }
+}
